@@ -1,0 +1,305 @@
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe.config
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.pdb
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csprojAssemblyReference.cache
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.Form1.resources
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.Properties.Resources.resources
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.GenerateResource.cache
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CoreCompileInputs.cache
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.exe
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.pdb
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.UcretliGirisKayıt.resources
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.KayıtOl.resources
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.KuponGiris.resources
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\Interop.WMPLib.dll
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\AxInterop.WMPLib.dll
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\Interop.WMPLib.dll
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\AxInterop.WMPLib.dll
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.ResolveComReference.cache
+E:\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.FloGiris.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe.config
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.pdb
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\Interop.WMPLib.dll
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.AssemblyReference.cache
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\Interop.WMPLib.dll
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.ResolveComReference.cache
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.FloGiris.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.Form1.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.KayıtOl.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.KuponGiris.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.Properties.Resources.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.UcretliGirisKayıt.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.GenerateResource.cache
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CoreCompileInputs.cache
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.exe
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.pdb
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.DRGiris.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.LcwGiris.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.DefactoGiris.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.MigrosGiris.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.MaviGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe.config
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.pdb
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\Interop.WMPLib.dll
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\Interop.WMPLib.dll
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.ResolveComReference.cache
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.DefactoGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.DRGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.FloGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.Form1.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.KayıtOl.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.KuponGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.LcwGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.MaviGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.MigrosGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.Properties.Resources.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.UcretliGirisKayıt.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.GenerateResource.cache
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.exe
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.pdb
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\Dapper.dll
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\bin\Debug\Dapper.xml
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CopyComplete
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe.config
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.pdb
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\Dapper.dll
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\Dapper.xml
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\Interop.WMPLib.dll
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.AssemblyReference.cache
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\Interop.WMPLib.dll
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.ResolveComReference.cache
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.DefactoGiris.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.DRGiris.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.FloGiris.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.Form1.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.KayıtOl.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.KuponGiris.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.LcwGiris.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.MaviGiris.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.MigrosGiris.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.Properties.Resources.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.UcretliGirisKayıt.resources
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.GenerateResource.cache
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CoreCompileInputs.cache
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CopyComplete
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.exe
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.pdb
+C:\Users\TOSIBA\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.YarısmaEkranı.resources
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe.config
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.pdb
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\Dapper.dll
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\Dapper.xml
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\Interop.WMPLib.dll
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.AssemblyReference.cache
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\Interop.WMPLib.dll
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.ResolveComReference.cache
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.DefactoGiris.resources
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.DRGiris.resources
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.FloGiris.resources
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.Form1.resources
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.KayıtOl.resources
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.KuponGiris.resources
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.LcwGiris.resources
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.MaviGiris.resources
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.MigrosGiris.resources
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.Properties.Resources.resources
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.UcretliGirisKayıt.resources
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.YarısmaEkranı.resources
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.GenerateResource.cache
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CoreCompileInputs.cache
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CopyComplete
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.exe
+C:\Users\KK\Desktop\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.pdb
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe.config
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\KİM_BİLİR.pdb
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\Dapper.dll
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\Dapper.xml
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\Interop.WMPLib.dll
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\Interop.WMPLib.dll
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.ResolveComReference.cache
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.DefactoGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.DRGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.FloGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.Form1.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.KayıtOl.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.KuponGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.LcwGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.MaviGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.MigrosGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.Properties.Resources.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.UcretliGirisKayıt.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.YarısmaEkranı.resources
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.GenerateResource.cache
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CopyComplete
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.exe
+C:\Users\burha\OneDrive\Masaüstü\KİM BİLİR PROJE--12.03\KİM_BİLİR\KİM_BİLİR\obj\Debug\KİM_BİLİR.pdb
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe.config
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\KİM_BİLİR.pdb
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\Dapper.dll
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\Dapper.xml
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\Interop.WMPLib.dll
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.AssemblyReference.cache
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\Interop.WMPLib.dll
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.ResolveComReference.cache
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.AdminForm.resources
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.DefactoGiris.resources
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.DRGiris.resources
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.FloGiris.resources
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.Form1.resources
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.KayıtOl.resources
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.KuponGiris.resources
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.LcwGiris.resources
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.MaviGiris.resources
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.MigrosGiris.resources
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.Properties.Resources.resources
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.UcretliGirisKayıt.resources
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.YarısmaEkranı.resources
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.GenerateResource.cache
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CoreCompileInputs.cache
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CopyComplete
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.exe
+C:\Users\TOSIBA\Desktop\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.pdb
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe.config
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\KİM_BİLİR.pdb
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\Dapper.dll
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\Dapper.xml
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\Interop.WMPLib.dll
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\Interop.WMPLib.dll
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.ResolveComReference.cache
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.AdminForm.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.DefactoGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.DRGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.FloGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.Form1.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.KayıtOl.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.KuponGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.LcwGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.MaviGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.MigrosGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.Properties.Resources.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.UcretliGirisKayıt.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.YarısmaEkranı.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.GenerateResource.cache
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CopyComplete
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.exe
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_20_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.pdb
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe.config
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\KİM_BİLİR.pdb
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\Dapper.dll
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\Dapper.xml
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\Interop.WMPLib.dll
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.AssemblyReference.cache
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\Interop.WMPLib.dll
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.ResolveComReference.cache
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.AdminForm.resources
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.DefactoGiris.resources
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.DRGiris.resources
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.FloGiris.resources
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.Form1.resources
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.KayıtOl.resources
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.KuponGiris.resources
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.KuponluGirişÖdül.resources
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.LcwGiris.resources
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.MaviGiris.resources
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.MigrosGiris.resources
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.Properties.Resources.resources
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.UcretliGirisKayıt.resources
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.YarısmaEkranı.resources
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.GenerateResource.cache
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CoreCompileInputs.cache
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CopyComplete
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.exe
+C:\Users\TOSIBA\Desktop\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.pdb
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe.config
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\KİM_BİLİR.pdb
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\Dapper.dll
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\Dapper.xml
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\Interop.WMPLib.dll
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csprojAssemblyReference.cache
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\Interop.WMPLib.dll
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.ResolveComReference.cache
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.AdminForm.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.DefactoGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.DRGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.FloGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.Form1.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.KayıtOl.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.KuponGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.KuponluGirişÖdül.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.LcwGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.MaviGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.MigrosGiris.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.Properties.Resources.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.UcretliGirisKayıt.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.YarısmaEkranı.resources
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.GenerateResource.cache
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CoreCompileInputs.cache
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CopyComplete
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.exe
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.pdb
+C:\Users\burha\OneDrive\Masaüstü\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.YarısmaEkranıÜcetli.resources
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe.config
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\KİM_BİLİR.exe
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\KİM_BİLİR.pdb
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\Dapper.dll
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\Dapper.xml
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\Interop.WMPLib.dll
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.AssemblyReference.cache
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.SuggestedBindingRedirects.cache
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\Interop.WMPLib.dll
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.ResolveComReference.cache
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.AdminForm.resources
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.DefactoGiris.resources
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.DRGiris.resources
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.FloGiris.resources
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.Form1.resources
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.KayıtOl.resources
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.KuponGiris.resources
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.KuponluGirişÖdül.resources
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.LcwGiris.resources
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.MaviGiris.resources
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.MigrosGiris.resources
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.Properties.Resources.resources
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.UcretliGirisKayıt.resources
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.YarısmaEkranı.resources
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.YarısmaEkranıÜcetli.resources
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.GenerateResource.cache
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CoreCompileInputs.cache
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.csproj.CopyComplete
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.exe
+C:\Users\msı\Documents\EntireSon\Kimbilir\KimBilir_24_03\KİM_BİLİR_20.03\KİM_BİLİR\obj\Debug\KİM_BİLİR.pdb

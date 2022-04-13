@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3F6F1CB4-A96F-4483-943A-DB38A966BD36}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KİM_BİLİR</RootNamespace>
+    <AssemblyName>KİM_BİLİR</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.2.0.123\lib\net461\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DefactoGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DefactoGiris.Designer.cs">
+      <DependentUpon>DefactoGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DRGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DRGiris.Designer.cs">
+      <DependentUpon>DRGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FloGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FloGiris.Designer.cs">
+      <DependentUpon>FloGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KayıtOl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KayıtOl.Designer.cs">
+      <DependentUpon>KayıtOl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KuponGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KuponGiris.Designer.cs">
+      <DependentUpon>KuponGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KuponluGirişÖdül.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KuponluGirişÖdül.Designer.cs">
+      <DependentUpon>KuponluGirişÖdül.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LcwGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LcwGiris.Designer.cs">
+      <DependentUpon>LcwGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaviGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaviGiris.Designer.cs">
+      <DependentUpon>MaviGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MigrosGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MigrosGiris.Designer.cs">
+      <DependentUpon>MigrosGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UcretliGirisKayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UcretliGirisKayıt.Designer.cs">
+      <DependentUpon>UcretliGirisKayıt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YarısmaEkranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YarısmaEkranı.Designer.cs">
+      <DependentUpon>YarısmaEkranı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YarısmaEkranıÜcetli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YarısmaEkranıÜcetli.Designer.cs">
+      <DependentUpon>YarısmaEkranıÜcetli.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DefactoGiris.resx">
+      <DependentUpon>DefactoGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DRGiris.resx">
+      <DependentUpon>DRGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FloGiris.resx">
+      <DependentUpon>FloGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KayıtOl.resx">
+      <DependentUpon>KayıtOl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KuponGiris.resx">
+      <DependentUpon>KuponGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KuponluGirişÖdül.resx">
+      <DependentUpon>KuponluGirişÖdül.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LcwGiris.resx">
+      <DependentUpon>LcwGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaviGiris.resx">
+      <DependentUpon>MaviGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MigrosGiris.resx">
+      <DependentUpon>MigrosGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UcretliGirisKayıt.resx">
+      <DependentUpon>UcretliGirisKayıt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YarısmaEkranı.resx">
+      <DependentUpon>YarısmaEkranı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YarısmaEkranıÜcetli.resx">
+      <DependentUpon>YarısmaEkranıÜcetli.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ArkaPlan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ArkaPlan1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Mağazaların İconları\Flo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Mağazaların İconları\defacto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Mağazaların İconları\indir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Mağazaların İconları\Mavi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Mağazaların İconları\D&amp;R.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Mağazaların İconları\Migros.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\daire.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\daire1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
